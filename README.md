@@ -21,7 +21,7 @@ Lancer le logiciel :
 
 _**python main.py**_ en étant placé dans le dossier src.
 
-![menuopt](docs/requirements/menuprin.png)
+![menuopt](menuprin.png)
 
 Ensuite lancer GENERATE pour generer une ville.
 
@@ -37,8 +37,8 @@ Une fois cliqué sur le bouton **save** il faut retourner sur le terminal et éc
 
 Depuis le menu option:
 
-![menuopt](docs/requirements/menuopt.png)
-![menuopt](docs/requirements/menuopt2.png)
+![menuopt](menuopt.png)
+![menuopt](menuopt2.png)
 **Number of buildings** : le nombre de bâtiments que vous voulez générer.
 
 **Number of districts** : le nombre de quartiers que vous voulez générer.
